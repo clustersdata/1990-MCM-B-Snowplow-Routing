@@ -1,2 +1,3 @@
 # 1990-MCM-B-Snowplow-Routing
-1990 MCM B: Snowplow Routing
+
+The solid lines of the map (see Figure 1) represent paved two-lane county roads in a snow removal district in Wicomico County, Maryland [figure omitted]. The broken lines are state highways. After a snowfall, two plow-trucks are dispatched from a garage that is about 4 miles west of each of the two points (*) marked on the map. Find an efficient way to use the two trucks to sweep snow from the county roads. The trucks may use the state highways to access the county roads. Assume that the trucks neither break down nor get stuck and that the road intersections require no special plowing techniques. 
